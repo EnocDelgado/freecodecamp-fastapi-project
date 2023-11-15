@@ -34,7 +34,12 @@
     pip3 install fastapi
     ```
 
-3. **Install FastAPI:**
+    **Install Requirements:**
+    ```
+    pip install -r requirements.txt
+    ```
+
+3. **Install Uvicron:**
 
     **Windows:**
     ```
